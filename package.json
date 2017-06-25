@@ -1,0 +1,19 @@
+{
+  "name": "prnodejs01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "Hola mundo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davila01/PRNODEJS01.git"
+  },
+  "author": "Davila",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davila01/PRNODEJS01/issues"
+  },
+  "homepage": "https://github.com/davila01/PRNODEJS01#readme"
+}
