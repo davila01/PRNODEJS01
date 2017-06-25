@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "Hola mundo"
+    "test": "Hola mundo",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/davila01/PRNODEJS01/issues"
   },
-  "homepage": "https://github.com/davila01/PRNODEJS01#readme"
+  "homepage": "https://github.com/davila01/PRNODEJS01#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
